@@ -3,3 +3,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+section#logo img{
+    width: 3rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+section#logo h1{
+    font-size: 2rem;
+    font-weight: bolder;
+    display: inline-block;
+    vertical-align: .9rem;
+}
+
+.bg-color-lightgrey{
+    background-color: #d3d3d3;
+}
+
